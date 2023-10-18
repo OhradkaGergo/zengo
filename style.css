@@ -52,3 +52,23 @@ body {
 h1, h2 {
     color: forestgreen;
 }
+
+@media screen and (max-width: 600px) {
+	#imageleft {
+		float: none;
+		margin: 0 auto;
+	}
+	#imageright {
+		float: none;
+		margin: 0 auto;
+	}
+	.kepjobb {
+		width: 100%;
+	}
+	.kepbal {
+		width: 100%;
+	}
+	#content {
+		width: fit-content;
+	}
+}
