@@ -57,10 +57,12 @@ h1, h2 {
 	#imageleft {
 		float: none;
 		margin: 0 auto;
+		position: absolute;
 	}
 	#imageright {
 		float: none;
 		margin: 0 auto;
+		position: absolute;
 	}
 	.kepjobb {
 		width: 100%;
